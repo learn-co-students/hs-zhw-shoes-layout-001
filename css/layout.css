@@ -24,4 +24,31 @@
 
 /* Posititoning Classes */
 
+section#c1 {
+  
+  width: 66%;
+  float: left;
+  
+}
+
+section#c2 {
+  width: 32%;
+  float: right;
+}
+
+section#c3, #c6{
+  clear: both;
+  width: 32%;
+  float: left;
+  margin-top: 2%;
+
+}
+
+section#c4, #c5, #c7, #c8 {
+  width: 32%;
+  float: left;
+  margin-top: 2%;
+  margin-left: 2%;
+
+}
 
